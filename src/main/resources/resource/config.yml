@@ -1,0 +1,19 @@
+#語言(英語,繁體中文,簡體中文,巴西葡萄牙語,韓語)
+#Language (English,Chinese_TW,Chinese_CN,Portuguese_BR,Korean_KR)
+Language: English
+
+#顯示檢測訊息
+#Show detection message
+DetectionMessage: true
+
+#顯示刪除訊息
+#Show delete message
+DeleteMessage: true
+
+#刪除關鍵字
+#只要屬性標籤有包還該名稱就刪除
+#Delete keywords
+#As long as the attribute tag has a package and the name is deleted
+DeleteKeywords:
+- fancycore.
+- customdisplay

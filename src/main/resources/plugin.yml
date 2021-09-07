@@ -1,0 +1,12 @@
+name: FancyAttributes
+version: '${version}'
+main: com.daxton.fancyattributes.FancyAttributes
+api-version: 1.13
+prefix: FancyAttributes
+softdepend: [ FancyCore ]
+authors: [ s99889989 ]
+description: Check the custom properties and choose to delete.
+commands:
+  fancyattributes:
+    description: Basic instructions.
+    aliases: fattr
